@@ -1,2 +1,2 @@
 // the first line
-console.log(' Welcome to YSR Pursuit');
+console.log(' Welcome to SPOTS');
